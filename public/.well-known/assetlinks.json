@@ -1,0 +1,11 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sharecipe",
+      "sha256_cert_fingerprints":
+      ["73:BE:25:ED:C7:87:A9:52:24:8D:2C:FE:FC:77:38:5E:B3:48:A5:AF:F9:42:F4:AB:0D:AD:E3:7A:3B:AD:3E:03",
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"]
+    }
+  
+    }]
