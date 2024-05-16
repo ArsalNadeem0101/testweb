@@ -2,9 +2,13 @@
    "applinks": {
        "apps": [],
        "details": [
-           {
-               "appID": "483HK4685D.org.reactjs.native.example.Sharecipe",
-               "paths": [ "*" ]
+        {
+            "appID": "483HK4685D.org.reactjs.native.example.Sharecipe",
+            "paths": [ "/billing/", "/billing/*"]
+        },
+        {
+           "appID": "483HK4685D.org.reactjs.native.example.Sharecipe",
+           "paths": [ "*" ]
            }
        ]
    }
